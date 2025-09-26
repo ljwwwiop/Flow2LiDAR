@@ -13,5 +13,9 @@ Efficient LiDAR Data Generation via Flow Matching
 | **DDPM** | <img src="./generation_imgs/samples_ddpm_32_bev.png" width="180" height="120"> | <img src="./generation_imgs/samples_ddpm_64_bev.png" width="180" height="120"> | <img src="./generation_imgs/samples_ddpm_256_bev.png" width="180" height="120"> |
 | **Flow2LiDAR** | <img src="./generation_imgs/samples_fm_32_bev.png" width="180" height="120"> | <img src="./generation_imgs/samples_fm_64_bev.png" width="180" height="120"> |  |
 
+# 🚀 **Breakthrough Performance**
+> **✨ "Flow2LiDAR achieves DDPM-level quality in just 3-4 steps, with significantly faster training convergence and end-to-end efficiency!"**
+
+
 ---
 Coming Soon...
