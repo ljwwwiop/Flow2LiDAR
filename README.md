@@ -1,3 +1,13 @@
+
+<div align="center">
+<br>
+
+<img src="./imgs/logo.png" alt="Flow2LiDAR Logo" width="640" height="360" style="display: block; margin: 0 auto;">
+<br>
+
+</div>
+
+
 # Flow2LiDAR
 Efficient LiDAR Data Generation via Flow Matching
 
