@@ -10,6 +10,10 @@
 
 # LiDAR Data Generation via Directional Flow Matching
 
+<p align="center">
+  <img src="./show_fig.png" style="max-width: 100%; height: auto;">
+</p>
+
 
 <!-- # Flow2LiDAR \
 | Method | Step 1<br> | Step 2<br> | Step 4<br> | Step 8<br> |
