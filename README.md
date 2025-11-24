@@ -10,6 +10,12 @@
 
 # LiDAR Data Generation via Directional Flow Matching
 
+
+<p align="center">
+  <img src="./imgs/compare_ddpm.png" style="max-width: 100%; height: auto;">
+</p>
+
+
 <p align="center">
   <img src="./show_fig.png" style="max-width: 100%; height: auto;">
 </p>
