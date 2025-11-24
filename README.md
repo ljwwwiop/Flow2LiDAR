@@ -37,6 +37,9 @@
 # 🚀 **Breakthrough Performance**
 > **✨ "Flow2LiDAR reaches DDPM-level generation quality with only 16 sampling steps, while maintaining true single-step end-to-end training without correction flows or distillation, significantly improving both training and inference efficiency."**
 
+|  | Samples-32 | Samples-256 | Logs |
+|---------|----------|----------|---|
+| Uncondition   | / | / | [ckpt](https://drive.google.com/drive/folders/1NBftdU66eTSOvBpBvYYXoyPZQUyv_mQK?dmr=1&ec=wgc-drive-hero-goto)|
 
 ---
 Coming Soon...
