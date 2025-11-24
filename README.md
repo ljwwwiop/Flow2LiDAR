@@ -2,14 +2,14 @@
 <div align="center">
 <br>
 
-<img src="./imgs/logo.png" alt="Flow2LiDAR Logo" width="640" height="360" style="display: block; margin: 0 auto;">
+<img src="./imgs/logo2.png" alt="Flow2LiDAR Logo" width="360" height="360" style="display: block; margin: 0 auto;"> 
 <br>
 
 </div>
 
 
 <!-- # Flow2LiDAR -->
-LiDAR Data Generation via Directional Flow Matching
+# LiDAR Data Generation via Directional Flow Matching
 
 
 
