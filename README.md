@@ -9,7 +9,7 @@
 
 
 <!-- # Flow2LiDAR -->
-Efficient LiDAR Data Generation via Flow Matching
+LiDAR Data Generation via Directional Flow Matching
 
 
 
@@ -24,7 +24,7 @@ Efficient LiDAR Data Generation via Flow Matching
 | **Flow2LiDAR** | <img src="./generation_imgs/samples_fm_32_bev.png" width="180" height="120"> | <img src="./generation_imgs/samples_fm_64_bev.png" width="180" height="120"> |  |
 
 # 🚀 **Breakthrough Performance**
-> **✨ "Flow2LiDAR achieves DDPM-level quality in just 3-4 steps, with significantly faster training convergence and end-to-end efficiency!"**
+> **✨ "Flow2LiDAR reaches DDPM-level generation quality with only 16 sampling steps, while maintaining true single-step end-to-end training without correction flows or distillation, significantly improving both training and inference efficiency."**
 
 
 ---
